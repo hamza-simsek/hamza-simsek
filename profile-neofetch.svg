@@ -68,7 +68,7 @@ text, tspan {
 </text>
 <text fill="#c9d1d9" font-size="13px">
 <tspan x="440" y="50" class="title">hamza@simsek</tspan>
-<tspan x="440" y="70" class="cc">-————————————————————————————————————————————-</tspan>
+<tspan x="440" y="70" class="cc">----------------------------------------------</tspan>
 <tspan x="440" y="95" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
 <tspan x="440" y="120" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">23 years, 2 months</tspan>
 <tspan x="440" y="145" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Data Science Professional</tspan>
@@ -83,12 +83,12 @@ text, tspan {
 <tspan x="440" y="340" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Predictive Modeling, EDA</tspan>
 
 <tspan x="440" y="375" class="title">- Contact</tspan>
-<tspan x="440" y="395" class="cc">-————————————————————————————————————————————-</tspan>
+<tspan x="440" y="395" class="cc">----------------------------------------------</tspan>
 <tspan x="440" y="420" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">hamza-simsek</tspan>
 <tspan x="440" y="445" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
 
 <tspan x="440" y="480" class="title">- GitHub Stats</tspan>
-<tspan x="440" y="500" class="cc">-————————————————————————————————————————————-</tspan>
+<tspan x="440" y="500" class="cc">----------------------------------------------</tspan>
 <tspan x="440" y="525" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">12</tspan>
 <tspan x="440" y="550" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">15</tspan>
 <tspan x="440" y="575" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
