@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, 'Courier New', monospace" width="985px" height="620px" font-size="12px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="985" height="620" font-size="12">
 <style>
 .key {fill: #ffa657; font-weight: bold;}
 .value {fill: #a5d6ff;}
@@ -7,18 +6,15 @@
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
 .title {fill: #ff7b72; font-weight: bold; font-size: 14px;}
-text, tspan {
-  font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
-  white-space: pre;
-}
+text, tspan {white-space: pre;}
 </style>
 
-<rect width="985px" height="620px" fill="#161b22" rx="15"/>
+<rect width="985" height="620" fill="#161b22" rx="15"/>
 
 <text x="20" y="40" fill="#c9d1d9">
 </text>
-<!-- BURAYA KENDİ ASCII ART SATIRLARINI TEK TEK <tspan> OLARAK YAPIŞTIR -->
-<!-- Örnek şablon (Her satırın 'y' değerini 20'şer artırarak aşağıya doğru git): -->
+
+
 <tspan x="15" y="30">                                                                                               </tspan>
 <tspan x="15" y="50">                                                                                               </tspan>
 <tspan x="15" y="70">                                                                                               </tspan>
@@ -64,9 +60,9 @@ text, tspan {
 <tspan x="15" y="870">                                        +x:  .     ; .;: .+:.. ..::.    ...               .;   </tspan>
 <tspan x="15" y="890">                                       :+x       .+.:x; :;        .   :+;    .             ;   </tspan>
 <tspan x="15" y="910">                                                                                               </tspan>
-<!-- Kendi kopyaladığın tüm satırları bu mantıkla buraya ekle -->
+
 </text>
-<text fill="#c9d1d9" font-size="13px">
+<text fill="#c9d1d9" font-size="13">
 <tspan x="440" y="50" class="title">hamza@simsek</tspan>
 <tspan x="440" y="70" class="cc">----------------------------------------------</tspan>
 <tspan x="440" y="95" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
