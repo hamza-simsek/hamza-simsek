@@ -15,6 +15,7 @@
 
   <rect width="985" height="960" fill="#f6f8fa" rx="15"/>
 
+  <!-- SOL KOLON: ASCII Sanatı -->
   <text x="15" y="40" fill="#24292e" font-size="13">
     <tspan x="15" y="40">                                                                                               </tspan>
     <tspan x="15" y="54">                                                                                               </tspan>
@@ -25,68 +26,69 @@
     <tspan x="15" y="124">                                                :;            : . .  .:.                       </tspan>
     <tspan x="15" y="138">                                            .                       .     .                    </tspan>
     <tspan x="15" y="152">                                          ;x                             .                     </tspan>
-    <tspan x="15" y="166">                                          : .     &amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;;    .     .                     </tspan>
-    <tspan x="15" y="180">                                         .:.    &amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;$&amp;amp;&amp;amp;XXXXXXx; .                             </tspan>
-    <tspan x="15" y="194">                                             .&amp;amp;&amp;amp;&amp;amp;$XXXxxXXxxxx+:::        .                      </tspan>
-    <tspan x="15" y="208">                                             $&amp;amp;xXxXXXX$$&amp;amp;Xxx+..:                                 </tspan>
-    <tspan x="15" y="222">                                             &amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;$$&amp;amp;&amp;amp;&amp;amp;+;:                                 </tspan>
+    <tspan x="15" y="166">                                          : .     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;;    .     .                     </tspan>
+    <tspan x="15" y="180">                                         .:.    &amp;&amp;&amp;&amp;&amp;&amp;&amp;$&amp;&amp;XXXXXXx; .                             </tspan>
+    <tspan x="15" y="194">                                             .&amp;&amp;&amp;$XXXxxXXxxxx+:::        .                      </tspan>
+    <tspan x="15" y="208">                                             $&amp;xXxXXXX$$&amp;Xxx+..:                                 </tspan>
+    <tspan x="15" y="222">                                             &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$&amp;&amp;&amp;+;:                                 </tspan>
     <tspan x="15" y="236">                                                   $X         :;x                              </tspan>
-    <tspan x="15" y="250">                                             &amp;amp;&amp;amp;$x  &amp;amp;&amp;amp;  ;XX      +X       .                      </tspan>
-    <tspan x="15" y="264">                                             &amp;amp; ; .x&amp;amp;x $&amp;amp;++    ;X++:      +                        </tspan>
-    <tspan x="15" y="278">                                             &amp;amp;&amp;amp;xx&amp;amp;&amp;amp;&amp;amp;. .X&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;X;+x    x +                        </tspan>
-    <tspan x="15" y="292">                                             &amp;amp;&amp;amp;&amp;amp;&amp;amp;$&amp;amp;&amp;amp;x;:X&amp;amp;$$$X;:.X+:X; +x;                        </tspan>
-    <tspan x="15" y="306">                                             $&amp;amp;;++x:    Xxx+:  .:  + x.+                         </tspan>
-    <tspan x="15" y="320">                                             .&amp;amp;$&amp;amp;.     &amp;amp;&amp;amp;&amp;amp;&amp;amp;x:    .;  X&amp;amp;;                         </tspan>
-    <tspan x="15" y="334">                                              &amp;amp;    ;x     +::..  &amp;amp;:                            </tspan>
-    <tspan x="15" y="348">                                               &amp;amp;;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;xX&amp;amp;x  ..   ;X. .                          </tspan>
-    <tspan x="15" y="362">                                                x&amp;amp;     x&amp;amp;x:      :.X:                            </tspan>
-    <tspan x="15" y="376">                                                 X&amp;amp;&amp;amp;$&amp;amp;&amp;amp;&amp;amp;      .    ;&amp;amp;&amp;amp;                            </tspan>
+    <tspan x="15" y="250">                                             &amp;&amp;$x  &amp;&amp;  ;XX      +X       .                      </tspan>
+    <tspan x="15" y="264">                                             &amp; ; .x&amp;x $&amp;++    ;X++:      +                        </tspan>
+    <tspan x="15" y="278">                                             &amp;&amp;xx&amp;&amp;&amp;. .X&amp;&amp;&amp;&amp;&amp;&amp;X;+x    x +                        </tspan>
+    <tspan x="15" y="292">                                             &amp;&amp;&amp;&amp;$&amp;&amp;x;:X&amp;$$$X;:.X+:X; +x;                        </tspan>
+    <tspan x="15" y="306">                                             $&amp;;++x:    Xxx+:  .:  + x.+                         </tspan>
+    <tspan x="15" y="320">                                             .&amp;$&amp;.     &amp;&amp;&amp;&amp;x:    .;  X&amp;;                         </tspan>
+    <tspan x="15" y="334">                                              &amp;    ;x     +::..  &amp;:                            </tspan>
+    <tspan x="15" y="348">                                               &amp;;&amp;&amp;&amp;&amp;&amp;&amp;xX&amp;x  ..   ;X. .                          </tspan>
+    <tspan x="15" y="362">                                                x&amp;     x&amp;x:      :.X:                            </tspan>
+    <tspan x="15" y="376">                                                 X&amp;&amp;$&amp;&amp;&amp;      .    ;&amp;&amp;                            </tspan>
     <tspan x="15" y="390">                                                                .+x  :                         </tspan>
     <tspan x="15" y="404">                                                              :;;+    :                        </tspan>
-    <tspan x="15" y="418">                                                  ..&amp;amp;        .:+X;      .                        </tspan>
-    <tspan x="15" y="432">                                                     &amp;amp;  :::;;;+X$      .  .::                    </tspan>
-    <tspan x="15" y="446">                                                     &amp;amp;&amp;amp;x++x+++$&amp;amp;      .: ..  :x                  </tspan>
-    <tspan x="15" y="460">                                                  x$: &amp;amp;..+X$&amp;amp;&amp;amp;&amp;amp;      :;    .  .++                </tspan>
-    <tspan x="15" y="474">                                               xx+++  &amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;&amp;amp;        .;  :.    .   :x:            </tspan>
+    <tspan x="15" y="418">                                                  ..&amp;        .:+X;      .                        </tspan>
+    <tspan x="15" y="432">                                                     &amp;  :::;;;+X$      .  .::                    </tspan>
+    <tspan x="15" y="446">                                                     &amp;&amp;x++x+++$&amp;      .: ..  :x                  </tspan>
+    <tspan x="15" y="460">                                                  x$: &amp;..+X$&amp;&amp;&amp;      :;    .  .++                </tspan>
+    <tspan x="15" y="474">                                               xx+++  &amp;&amp;&amp;&amp;&amp;&amp;        .;  :.    .   :x:            </tspan>
     <tspan x="15" y="488">                                             x+;.x$          x...;x+  ::....       .++          </tspan>
     <tspan x="15" y="502">                                            ;+::+X          $:..    .;:.... ..  . .. :X.        </tspan>
-    <tspan x="15" y="516">                                           ;+; ;&amp;amp;          X;..:x +;::........::;..    ;:       </tspan>
-    <tspan x="15" y="530">                                           +;.:X.          &amp;amp;.  .XX  .:::.;..::;:         +      </tspan>
+    <tspan x="15" y="516">                                           ;+; ;&amp;          X;..:x +;::........::;..    ;:       </tspan>
+    <tspan x="15" y="530">                                           +;.:X.          &amp;.  .XX  .:::.;..::;:         +      </tspan>
     <tspan x="15" y="544">                                           ;;:x:          x. :+;:  :;......::.             .     </tspan>
     <tspan x="15" y="558">                                          x;.x+          x. .+X  :;::...:. :                 :    </tspan>
-    <tspan x="15" y="572">                                          ;:+X          &amp;amp;. .+X  :;::  ....:                      </tspan>
-    <tspan x="15" y="586">                                         +;;x          +. :+X  ;;:. . :..:            &amp;amp;&amp;amp;&amp;amp;+.   .   </tspan>
+    <tspan x="15" y="572">                                          ;:+X          &amp;. .+X  :;::  ....:                      </tspan>
+    <tspan x="15" y="586">                                         +;;x          +. :+X  ;;:. . :..:            &amp;&amp;&amp;+.   .   </tspan>
     <tspan x="15" y="600">                                         +.x+   .    X: :++  +:.  .... ..                 . .   </tspan>
     <tspan x="15" y="614">                                         ;;X        x: :xx  +..    .:. ;  ..                :   </tspan>
     <tspan x="15" y="628">                                         +x:  .      ; .;: .+:.. ..::.   ...                .;   </tspan>
     <tspan x="15" y="642">                                        :+x        .+.:x; :;        .   :+;    .             ;   </tspan>
   </text>
 
+  <!-- SAĞ KOLON: Kişisel Bilgiler (Hizalaması Düzeltildi) -->
   <text fill="#24292e" font-size="13">
-    <tspan x="450" y="95" class="title">hamza@simsek</tspan>
-    <tspan x="450" y="115" class="cc">----------------------------------------------</tspan>
-    <tspan x="450" y="145" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
-    <tspan x="450" y="175" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">23 years, 2 months</tspan>
-    <tspan x="450" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Data Science Professional</tspan>
-    <tspan x="450" y="235" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP / Machine Learning Developer</tspan>
-    <tspan x="450" y="265" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter, PyCharm</tspan>
+    <tspan x="530" y="95" class="title">hamza@simsek</tspan>
+    <tspan x="530" y="115" class="cc">----------------------------------------------</tspan>
+    <tspan x="530" y="145" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
+    <tspan x="530" y="175" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">23 years, 2 months</tspan>
+    <tspan x="530" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Data Science Professional</tspan>
+    <tspan x="530" y="235" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP / Machine Learning Developer</tspan>
+    <tspan x="530" y="265" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter, PyCharm</tspan>
 
-    <tspan x="450" y="315" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Python, SQL, R</tspan>
-    <tspan x="450" y="345" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
-    <tspan x="450" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Turkish, English</tspan>
+    <tspan x="530" y="315" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Python, SQL, R</tspan>
+    <tspan x="530" y="345" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
+    <tspan x="530" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Turkish, English</tspan>
 
-    <tspan x="450" y="425" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
-    <tspan x="450" y="455" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Predictive Modeling, EDA</tspan>
+    <tspan x="530" y="425" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
+    <tspan x="530" y="455" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Predictive Modeling, EDA</tspan>
 
-    <tspan x="450" y="505" class="title">- Contact</tspan>
-    <tspan x="450" y="525" class="cc">----------------------------------------------</tspan>
-    <tspan x="450" y="555" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">hamza-simsek</tspan>
-    <tspan x="450" y="585" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
+    <tspan x="530" y="505" class="title">- Contact</tspan>
+    <tspan x="530" y="525" class="cc">----------------------------------------------</tspan>
+    <tspan x="530" y="555" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">hamza-simsek</tspan>
+    <tspan x="530" y="585" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
 
-    <tspan x="450" y="635" class="title">- GitHub Stats</tspan>
-    <tspan x="450" y="655" class="cc">----------------------------------------------</tspan>
-    <tspan x="450" y="685" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">12</tspan>
-    <tspan x="450" y="715" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">15</tspan>
-    <tspan x="450" y="745" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
+    <tspan x="530" y="635" class="title">- GitHub Stats</tspan>
+    <tspan x="530" y="655" class="cc">----------------------------------------------</tspan>
+    <tspan x="530" y="685" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">12</tspan>
+    <tspan x="530" y="715" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">15</tspan>
+    <tspan x="530" y="745" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
   </text>
 </svg>
