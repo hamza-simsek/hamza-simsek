@@ -58,5 +58,5 @@ if __name__ == '__main__':
         print("API'den veri çekilemedi, varsayılan değerler kullanılıyor.", e)
         stats = {'repos': 15, 'stars': 12, 'followers': 15}
         
-    update_svg('dark_mode.svg', stats)
-    update_svg('light_mode.svg', stats)
+    update_svg('dark-mode.svg', stats)
+    update_svg('light-mode.svg', stats)
