@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="960" viewBox="0 0 1050 960">
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="960" viewBox="0 0 1120 960">
   <style>
     .key { fill: #005cc5; font-weight: bold; }
     .value { fill: #032f62; }
@@ -13,7 +13,7 @@
     }
   </style>
 
-  <rect width="1050" height="960" fill="#f6f8fa" rx="15"/>
+  <rect width="1120" height="960" fill="#f6f8fa" rx="15"/>
 
   <text x="15" y="40" fill="#24292e" font-size="13">
     <tspan x="15" y="40">                                                                                               </tspan>
@@ -63,30 +63,30 @@
   </text>
 
   <text fill="#24292e" font-size="13">
-    <tspan x="580" y="95" class="title">hamza@simsek</tspan>
-    <tspan x="580" y="115" class="cc">----------------------------------------------</tspan>
-    <tspan x="580" y="145" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
-    <tspan x="580" y="175" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">23 years, 2 months</tspan>
-    <tspan x="580" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Data Science Professional</tspan>
-    <tspan x="580" y="235" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP / Machine Learning Developer</tspan>
-    <tspan x="580" y="265" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter, PyCharm</tspan>
+    <tspan x="640" y="95" class="title">hamza@simsek</tspan>
+    <tspan x="640" y="115" class="cc">----------------------------------------------</tspan>
+    <tspan x="640" y="145" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
+    <tspan x="640" y="175" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">23 years, 2 months</tspan>
+    <tspan x="640" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Data Science Professional</tspan>
+    <tspan x="640" y="235" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP / Machine Learning Developer</tspan>
+    <tspan x="640" y="265" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter, PyCharm</tspan>
 
-    <tspan x="580" y="315" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Python, SQL, R</tspan>
-    <tspan x="580" y="345" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
-    <tspan x="580" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Turkish, English</tspan>
+    <tspan x="640" y="315" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Python, SQL, R</tspan>
+    <tspan x="640" y="345" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
+    <tspan x="640" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Turkish, English</tspan>
 
-    <tspan x="580" y="425" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
-    <tspan x="580" y="455" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Predictive Modeling, EDA</tspan>
+    <tspan x="640" y="425" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
+    <tspan x="640" y="455" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Predictive Modeling, EDA</tspan>
 
-    <tspan x="580" y="505" class="title">- Contact</tspan>
-    <tspan x="580" y="525" class="cc">----------------------------------------------</tspan>
-    <tspan x="580" y="555" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">hamza-simsek</tspan>
-    <tspan x="580" y="585" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
+    <tspan x="640" y="505" class="title">- Contact</tspan>
+    <tspan x="640" y="525" class="cc">----------------------------------------------</tspan>
+    <tspan x="640" y="555" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">hamza-simsek</tspan>
+    <tspan x="640" y="585" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
 
-    <tspan x="580" y="635" class="title">- GitHub Stats</tspan>
-    <tspan x="580" y="655" class="cc">----------------------------------------------</tspan>
-    <tspan x="580" y="685" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">12</tspan>
-    <tspan x="580" y="715" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">15</tspan>
-    <tspan x="580" y="745" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
+    <tspan x="640" y="635" class="title">- GitHub Stats</tspan>
+    <tspan x="640" y="655" class="cc">----------------------------------------------</tspan>
+    <tspan x="640" y="685" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">12</tspan>
+    <tspan x="640" y="715" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">15</tspan>
+    <tspan x="640" y="745" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
   </text>
 </svg>
