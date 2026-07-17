@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Genişlik 1300'e çıkarıldı -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1300" height="960" viewBox="0 0 1300 960">
   <style>
     .key { fill: #ffa657; font-weight: bold; }
@@ -16,9 +15,6 @@
 
   <rect width="1300" height="960" fill="#0d1117" rx="15"/>
 
-  <!-- SOL KOLON: ASCII Sanatı -->
-  <!-- SOL KOLON: x değerini -50 yaparak ASCII'yi sola ittik -->
-  <!-- SOL KOLON: x değerini -50 yaparak ASCII'yi sola ittik -->
   <text x="-50" y="40" fill="#c9d1d9" font-size="13">
     <tspan x="-50" y="82">                                                    .:::::::.</tspan>
     <tspan x="-50" y="96">                                                .                .</tspan>
@@ -62,19 +58,19 @@
     <tspan x="-50" y="628">                                         +x:  .      ; .;: .+:.. ..::.   ...                .;</tspan>
     <tspan x="-50" y="642">                                        :+x        .+.:x; :;        .   :+;    .             ;</tspan>
   </text>
-  <!-- SAĞ KOLON: Başlangıç x="700" olarak güncellendi -->
+
   <text fill="#c9d1d9" font-size="13">
     <tspan x="700" y="95" class="title">hamza@simsek</tspan>
     <tspan x="700" y="115" class="cc">----------------------------------------------------</tspan>
     <tspan x="700" y="145" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
     <tspan x="700" y="175" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">23 years, 2 months</tspan>
-    <tspan x="700" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Data Analyst & Business Intelligence</tspan>
+    <tspan x="700" y="205" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Data Analyst &amp; Business Intelligence</tspan>
     <tspan x="700" y="235" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">NLP / Business Intelligence Developer</tspan>
     <tspan x="700" y="265" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VSCode, Jupyter, Google Colab</tspan>
 
     <tspan x="700" y="315" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Python, SQL, R</tspan>
     <tspan x="700" y="345" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
-    <tspan x="700" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Turkish, English, Spanish</tspan>
+    <tspan x="700" y="375" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Turkish, English, Spanish (B1)</tspan>
 
     <tspan x="700" y="425" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
     <tspan x="700" y="455" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Predictive Modeling, Data Visualization</tspan>
