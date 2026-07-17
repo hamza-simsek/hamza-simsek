@@ -18,6 +18,7 @@
 
   <!-- SOL KOLON: ASCII Sanatı -->
   <!-- SOL KOLON: x değerini -50 yaparak ASCII'yi sola ittik -->
+  <!-- SOL KOLON: x değerini -50 yaparak ASCII'yi sola ittik -->
   <text x="-50" y="40" fill="#c9d1d9" font-size="13">
     <tspan x="-50" y="82">                                                    .:::::::.</tspan>
     <tspan x="-50" y="96">                                                .                .</tspan>
@@ -61,7 +62,6 @@
     <tspan x="-50" y="628">                                         +x:  .      ; .;: .+:.. ..::.   ...                .;</tspan>
     <tspan x="-50" y="642">                                        :+x        .+.:x; :;        .   :+;    .             ;</tspan>
   </text>
-
   <!-- SAĞ KOLON: Başlangıç x="700" olarak güncellendi -->
   <text fill="#c9d1d9" font-size="13">
     <tspan x="700" y="95" class="title">hamza@simsek</tspan>
