@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="660" viewBox="0 0 890 660">
+  <style>
+    /* VARSAYILAN (AÇIK TEMA) RENKLERİ */
+    .bg { fill: #f6f8fa; }
+    .text-main { fill: #24292e; }
+    .key { fill: #005cc5; font-weight: bold; }
+    .value { fill: #032f62; }
+    .addColor { fill: #22863a; font-weight: bold; }
+    .delColor { fill: #cb2431; font-weight: bold; }
+    .cc { fill: #6a737d; }
+    .title { fill: #d73a49; font-weight: bold; font-size: 13px; }
+
+    text, tspan { 
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      white-space: pre; 
+    }
+
+    /* KOYU TEMA DÜZENLEMESİ */
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .text-main { fill: #c9d1d9; }
+      .key { fill: #ffa657; }
+      .value { fill: #a5d6ff; }
+      .addColor { fill: #3fb950; }
+      .delColor { fill: #f85149; }
+      .cc { fill: #616e7f; }
+      .title { fill: #ff7b72; }
+    }
+  </style>
+
+  <rect class="bg" width="890" height="660" rx="12"/>
+
+  <!-- SOL ASCII SANATI -->
+  <text x="-150" y="20" class="text-main" font-size="9">
+    <tspan x="-150" y="50">                                                    .:::::::.</tspan>
+    <tspan x="-150" y="60">                                                .                .</tspan>
+    <tspan x="-150" y="70">                                             .:    :xXx+$+::</tspan>
+    <tspan x="-150" y="80">                                                :;            : . .  .:.</tspan>
+    <tspan x="-150" y="90">                                            .                        .     .</tspan>
+    <tspan x="-150" y="100">                                          ;x                               .</tspan>
+    <tspan x="-150" y="110">                                          : .     %%%%%%%%%%%%;    .     .</tspan>
+    <tspan x="-150" y="120">                                         .:.    %%%%%%%$%%XXXXXXx; .</tspan>
+    <tspan x="-150" y="130">                                              .%%%$XXXxxXXxxxx+:::        .</tspan>
+    <tspan x="-150" y="140">                                              $%xXxXXXX$$%Xxx+..:</tspan>
+    <tspan x="-150" y="150">                                              %%%%%%%%%%%$$%%%+;:</tspan>
+    <tspan x="-150" y="160">                                                  $X         :;x</tspan>
+    <tspan x="-150" y="170">                                              %%$x  %%  ;XX      +X        .</tspan>
+    <tspan x="-150" y="180">                                              % ; .x%x $%++    ;X++:      +</tspan>
+    <tspan x="-150" y="190">                                              %%xx%%%. .X%%%%%%X;+x    x +</tspan>
+    <tspan x="-150" y="200">                                              %%%%$%x;:X%$$$X;:.X+:X; +x;</tspan>
+    <tspan x="-150" y="210">                                              $;++x:    Xxx+:  .:  + x.+</tspan>
+    <tspan x="-150" y="220">                                              .$%.     %%%%x:    .;  X%;</tspan>
+    <tspan x="-150" y="230">                                               %    ;x      +::..  %:</tspan>
+    <tspan x="-150" y="240">                                                ;%%%%%%xX%x  ..   ;X. .</tspan>
+    <tspan x="-150" y="250">                                                 x%     x%x:      :.X:</tspan>
+    <tspan x="-150" y="260">                                                  X%%$%%%      .    ;%%</tspan>
+    <tspan x="-150" y="270">                                                               .+x  :</tspan>
+    <tspan x="-150" y="280">                                                              :;;+    :</tspan>
+    <tspan x="-150" y="290">                                                 ..%        .:+X;      .</tspan>
+    <tspan x="-150" y="300">                                                     %  :::;;;+X$      .  .::</tspan>
+    <tspan x="-150" y="310">                                                     %%x++x+++$%      .: ..  :x</tspan>
+    <tspan x="-150" y="320">                                                  x$: %..+X$%%%      :;    .  .++</tspan>
+    <tspan x="-150" y="330">                                                xx+++  %%%%%%        .;  :.    .   :x:</tspan>
+    <tspan x="-150" y="340">                                               x+;.x$          x...;x+  ::....       .++</tspan>
+    <tspan x="-150" y="350">                                             ;+::+X          $:..    .;:.... ..  . .. :X.</tspan>
+    <tspan x="-150" y="360">                                            ;+; ;%          X;..:x +;::........::;..    ;</tspan>
+    <tspan x="-150" y="370">                                            +;.:X.          %.  .XX  .:::.;..::;:         +</tspan>
+    <tspan x="-150" y="380">                                            ;;:x:          x. :+;:  :;......::.             .</tspan>
+    <tspan x="-150" y="390">                                           x;.x+          x. .+X  :;::...:. :                 :</tspan>
+    <tspan x="-150" y="400">                                           ;:+X          %. .+X  :;::    ....:</tspan>
+    <tspan x="-150" y="410">                                          +;;x          +. :+X  ;;:. . :..:            %%%+.</tspan>
+    <tspan x="-150" y="420">                                          +.x+   .    X: :++  +:.  .... ..                 . .</tspan>
+    <tspan x="-150" y="430">                                          ;;X        x: :xx  +..    .:. ;  ..                :</tspan>
+    <tspan x="-150" y="440">                                          +x:  .      ; .;: .+:.. ..::.    ...                .;</tspan>
+    <tspan x="-150" y="450">                                         :+x        .+.:x; :;        .    :+;    .             ;</tspan>
+  </text>
+
+  <!-- SAĞ METİN BLOĞU -->
+  <text class="text-main" font-size="12">
+    <tspan x="460" y="60" class="title">hamza@simsek</tspan>
+    <tspan x="460" y="78" class="cc">----------------------------------------------------</tspan>
+    <tspan x="460" y="100" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Linux (Pop!_OS), Windows 11</tspan>
+    <tspan x="460" y="122" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">24 years, 2 months</tspan>
+    <tspan x="460" y="144" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Data Analyst &amp; BI</tspan>
+    <tspan x="460" y="166" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">NLP / Business Intelligence Dev</tspan>
+    <tspan x="460" y="188" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VSCode, Jupyter, Colab</tspan>
+
+    <tspan x="460" y="226" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Prog</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Python, SQL, R</tspan>
+    <tspan x="460" y="248" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Comp</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, Markdown, LaTeX</tspan>
+    <tspan x="460" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Turkish, English, Spanish (B1)</tspan>
+
+    <tspan x="460" y="308" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NLP, LLMs, Vector DBs (FAISS)</tspan>
+    <tspan x="460" y="330" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Analytics</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Predictive Modeling, Viz</tspan>
+
+    <tspan x="460" y="368" class="title">- Contact</tspan>
+    <tspan x="460" y="386" class="cc">----------------------------------------------------</tspan>
+    <tspan x="460" y="408" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">hamza-simsek</tspan>
+    <tspan x="460" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">hamza-simsek</tspan>
+
+    <tspan x="460" y="468" class="title">- GitHub Stats</tspan>
+    <tspan x="460" y="486" class="cc">----------------------------------------------------</tspan>
+    <tspan x="460" y="508" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">15</tspan> {<tspan class="key">Contrib</tspan>: <tspan class="value">25</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">12</tspan>
+    <tspan x="460" y="530" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">320</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">15</tspan>
+    <tspan x="460" y="552" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">.. </tspan><tspan class="value">45K</tspan> ( <tspan class="addColor">42K++</tspan>, <tspan class="delColor">3K--</tspan> )
+  </text>
+</svg>
